@@ -1,3 +1,4 @@
+
 ---
 
 # 🕵️ Personally Used Resources
@@ -29,13 +30,27 @@ A curated list of resources for cybersecurity, OSINT, malware analysis, vulnerab
 | [Oathnet OSINT](https://oathnet.org/)                        | OSINT data collection tool.                                              |
 | [Skymem.info](https://www.skymem.info/)                      | Extract publicly available emails from websites.                         |
 | [Github Email Finder](https://braingainsoft.com)             | Extract GitHub users' email addresses (where available).                 |
-| [OSINT rock](https://osint.rocks/)                           | A collection of OSINT tools in one site                                  |
-|[Number OSINT](https://whatsapp.checkleaked.cc/)              | OSINT tool for phone numbers                                             |
+| [OSINT rock](https://osint.rocks/)                           | A collection of OSINT tools in one site.                                 |
+| [Number OSINT](https://whatsapp.checkleaked.cc/)             | OSINT tool for phone numbers.                                            |
+| [intelx.io](https://intelx.io/)                              | Search engine indexing dark web, leaks, paste sites, and breach data.    |
+| [leak-lookup.com](https://leak-lookup.com/)                  | Search across billions of breach records; returns plaintext credentials. |
+
+---
+
+## 🔓 Hash Lookup & Password Cracking
+
+| Name                                                        | Description                                                              |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [crackstation.net](https://crackstation.net/)               | Free hash lookup and cracking tool using a massive precomputed wordlist. |
+| [binsec.tools](https://binsec.tools/lookup/hash/)           | Hash lookup tool for identifying known malicious binaries and files.     |
+
+---
 
 # Dark Web OSINT Tools
-| Name                                                         | Description                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)| is a collection of tools and resources for performing OSINT on the dark web |
+
+| Name                                                                                                             | Description                                                               |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)                                 | A collection of tools and resources for performing OSINT on the dark web. |
 
 ---
 
@@ -59,12 +74,12 @@ A curated list of resources for cybersecurity, OSINT, malware analysis, vulnerab
 
 ## 🧰 Web & Network Tools
 
-| Name                                                         | Description                                                   |
-| ------------------------------------------------------------ | ------------------------------------------------------------- |
-| [Swit-scanner](https://github.com/RedSecurity/swit-scanner)  | Swiss Army knife tool for web scanning and reconnaissance.    |
-| [dashboard.serversmtp.com](https://dashboard.serversmtp.com) | SMTP testing server; potentially spoofable (use responsibly). |
-| [caniphish](https://caniphish.com/)             | A great tool to identify if a website DMARC, SPF and MX records are not properly set |
-|[subdomainfinder.c99.nl](https://subdomainfinder.c99.nl/)|A great tool to quickly identify subdomains|
+| Name                                                         | Description                                                             |
+| ------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| [Swit-scanner](https://github.com/RedSecurity/swit-scanner)  | Swiss Army knife tool for web scanning and reconnaissance.              |
+| [dashboard.serversmtp.com](https://dashboard.serversmtp.com) | SMTP testing server; potentially spoofable (use responsibly).           |
+| [caniphish](https://caniphish.com/)                          | Identify if a website's DMARC, SPF and MX records are not properly set. |
+| [subdomainfinder.c99.nl](https://subdomainfinder.c99.nl/)    | Quickly identify subdomains for a target domain.                        |
 
 ---
 
@@ -84,4 +99,4 @@ A curated list of resources for cybersecurity, OSINT, malware analysis, vulnerab
 | [DDoSForHire Free List](https://www.ddosforhi.re/list/free) | Directory of free stresser services; useful for comparison or research. |
 
 ---
-
+```
