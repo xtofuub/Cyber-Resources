@@ -24,6 +24,8 @@ A curated list of resources for cybersecurity, OSINT, malware analysis, vulnerab
 
 | Name                                                         | Description                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| [breach.vip](https://breach.vip/)                      | Search engine for leaked credentials and data using various identifiers. |
+| [[osintcat.net](https://www.osintcat.net)                     | Search engine for leaked credentials and data using various identifiers. |
 | [osintleak.com](https://osintleak.com/)                      | Search engine for leaked credentials and data using various identifiers. |
 | [breachdetective.com](https://breachdetective.com/)          | Search if emails, phones, or passwords appear in public breaches.        |
 | [Scylla OSINT](https://github.com/cybersecurity-team/Scylla) | Powerful tool for gathering and analyzing OSINT data.                    |
